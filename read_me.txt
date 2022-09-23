@@ -30,4 +30,6 @@ CREATING THE PROGRAM
 
 1. create functions - greetings(with if elses for different times of the day) and datetime
 2. create do while loop in main()
-3. 
+3. add if elses with command== conditions
+4. ShellExecute
+5. createProcess
