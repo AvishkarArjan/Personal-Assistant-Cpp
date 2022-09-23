@@ -1,0 +1,16 @@
+Guide to personal assisstant commands
+
+1. hello / hi
+2. date / time / what is the time / what is the date / date and time
+3. who are you/ what are you
+4. open notepad
+5. open word
+6. open excel
+7. open google
+8. open youtube
+9. open image
+10. open pdf
+11. play video
+12. play music
+13. guide / open guide
+14. exit / quit / bye
